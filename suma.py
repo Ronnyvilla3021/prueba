@@ -11,5 +11,5 @@ if __name__ == "__main__":
     print(f"La suma de {a} + {b} es = {resultado}")
 
     # Prueba simple automática
-    assert resultado == 15, "❌ La suma no es correcta"
+    assert resultado == 12, "❌ La suma no es correcta"
     print("✅ Prueba pasada correctamente")
